@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch HImageManager",
+            "request": "launch",
+            "mainClass": "HImageManager",
+            "args": "Initialize",
+            "projectName": "Hadoop_4a177134",
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
