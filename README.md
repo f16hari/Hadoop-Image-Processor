@@ -12,4 +12,4 @@
 ```
 hadoop jar <jar name>
 ```
-NOTE : config file should be present in the same directory as from where jar file is being executed.
+NOTE : config file should be present in the same directory as from where jar file is being executed, and also ensure that your hadoop server is up and running
